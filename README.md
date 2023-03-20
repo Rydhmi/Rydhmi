@@ -4,7 +4,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate+Of+Uva+Wellassa.;Always+learning+new+things.;Team+Player.;Freelancer.;Volunteer." alt="Typing SVG" /></a>
     </p>
     <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=Rydhmi" alt="Rydhmi" /> 
+      <img align="right" top="100" bottom= "100" height="200" width="400" src="https://komarev.com/ghpvc/?username=Rydhmi" alt="Rydhmi" /> 
     </p>
   
 <!-- ABOUT ME -->
