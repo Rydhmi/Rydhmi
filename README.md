@@ -4,13 +4,13 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate+Of+Uva+Wellassa.;Always+learning+new+things.;Team+Player.;Freelancer.;Volunteer." alt="Typing SVG" /></a>
     </p>
     <p align="center">
-      <img align="right" top="100" bottom= "100" height="350" width="400" src="https://komarev.com/ghpvc/?username=Rydhmi" alt="Rydhmi" /> 
+      <img src="https://komarev.com/ghpvc/?username=Rydhmi" alt="Rydhmi" /> 
     </p>
   
 <!-- ABOUT ME -->
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> About me <img src="https://camo.githubusercontent.com/017ce09cb328afef06129604953c8331f3c09f3bda8b7081e8b7c4de23b1a723/68747470733a2f2f632e74656e6f722e636f6d2f585362443930326e31667741414141692f72656e6e656e2d666173742e676966" width="30" height="30" style="margin-right: 10px;"></h2>
     <a target="_blank" align="center">
-      <img alt="GIF" src="https://raw.githubusercontent.com/Rydhmi/aboutMe/main/giphy%20(1).webp">
+      <img align="right" top="100" bottom= "100" height="270" width="480" alt="GIF" src="https://raw.githubusercontent.com/Rydhmi/aboutMe/main/giphy%20(1).webp">
     </a>
 
 - 👨🏻‍🎓 An `Undergraduate` at the Department of Computer Science & Informatics at <a href="https://uwu.ac.lk/">Uva Wellassa University</a> pursuing B.Sc. (Hons) in Industrial Information Technology.
